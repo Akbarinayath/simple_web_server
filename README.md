@@ -1,6 +1,6 @@
 # EX01 Developing a Simple Webserver
 
-# Date:
+# Date:02.12.2024
 # AIM:
 To develop a simple webserver to serve html pages and display the configuration details of laptop.
 
@@ -21,6 +21,56 @@ Serving the HTML pages.
 Testing the webserver.
 
 # PROGRAM:
+```
+<html>
+<title> Image map </title>
+<body>
+<table border ="2"  cellspacing ="10" cellpadding = "6" align = "Center"> 
+<caption> TOP FIVE REVENUE GENERATING SOFTWARE COMPANIES </caption>
+<tr>
+<th> S.No </th>
+<th> Company </th>
+<th> Revenue </th>
+</tr>
+
+<tr>
+<td> 1. </td>
+<td> Microsoft </td>
+<td> 65 Billion  </td>
+</tr>
+
+<tr>
+<td> 2. </td>
+<td> Oracle </td>
+<td> 29.6 Billion  </td>
+</tr>
+
+<tr>
+<td> 3. </td>
+<td> IBM </td>
+<td> 29.1 Billion  </td>
+</tr> 
+
+<tr>
+<td> 4. </td>
+<td> SAP </td>
+<td> 6.4 Billion </td>
+</tr> 
+ 
+<tr>
+<td> 5. </td>
+<td> Syamntec </td>
+<td> 5.6 Billion </td>
+</tr>
+
+
+</table>
+</body>
+</html>
+```
+
 # OUTPUT:
+![Screenshot 2024-12-02 131803](https://github.com/user-attachments/assets/bcaf6ea5-aa8d-4c37-8791-aecb27dd34b4)
+
 # RESULT:
 The program for implementing simple webserver is executed successfully.
