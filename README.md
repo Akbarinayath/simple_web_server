@@ -22,55 +22,60 @@ Testing the webserver.
 
 # PROGRAM:
 ```
+<!doctype html>
 <html>
-<title> Image map </title>
+<head>
+<title> My Web Server</title>
+</head>
 <body>
-<table border ="2"  cellspacing ="10" cellpadding = "6" align = "Center"> 
-<caption> TOP FIVE REVENUE GENERATING SOFTWARE COMPANIES </caption>
-<tr>
-<th> S.No </th>
-<th> Company </th>
-<th> Revenue </th>
-</tr>
-
-<tr>
-<td> 1. </td>
-<td> Microsoft </td>
-<td> 65 Billion  </td>
-</tr>
-
-<tr>
-<td> 2. </td>
-<td> Oracle </td>
-<td> 29.6 Billion  </td>
-</tr>
-
-<tr>
-<td> 3. </td>
-<td> IBM </td>
-<td> 29.1 Billion  </td>
-</tr> 
-
-<tr>
-<td> 4. </td>
-<td> SAP </td>
-<td> 6.4 Billion </td>
-</tr> 
- 
-<tr>
-<td> 5. </td>
-<td> Syamntec </td>
-<td> 5.6 Billion </td>
-</tr>
-
-
-</table>
+<h1><center>My Laptop Configuration Details</center></h1>
+   <table border="1" cellpadding="10" align="center">
+        <tr>
+            <th bgcolor="red">Specification</th>
+            <th bgcolor="red">Details</th>
+        </tr>
+        <tr>
+            <td bgcolor="White">Model</td>
+            <td bgcolor="White">lenova </td>
+        </tr>
+        <tr>
+            <td bgcolor="White">Processor</td>
+            <td bgcolor="White">Intel Core i5</td>
+        </tr>
+        <tr>
+            <td bgcolor="White">RAM</td>
+            <td bgcolor="White">8GB</td>
+        </tr>
+        <tr>
+            <td bgcolor="White">Storage</td>a
+            <td bgcolor="White">256GB SSD</td>
+        </tr>
+        <tr>
+            <td bgcolor="White">Graphics</td>
+            <td bgcolor="White">Integrated Intel UHD Graphics</td>
+        </tr>
+        <tr>
+            <td bgcolor="White">Display</td>
+            <td bgcolor="White">14-inch FHD (1920 x 1080)</td>
+        </tr>
+        <tr>
+            <td bgcolor="White">Operating System</td>
+            <td bgcolor="White">Windows 10</td>
+        </tr>
+        <tr>
+            <td bgcolor="White">Colours available</td>
+            <td bgcolor="White">Black,White,Grey</td>
+        </tr>
+    </table>
 </body>
 </html>
 ```
 
 # OUTPUT:
-![Screenshot 2024-12-02 131803](https://github.com/user-attachments/assets/bcaf6ea5-aa8d-4c37-8791-aecb27dd34b4)
+![Screenshot 2024-12-07 215400](https://github.com/user-attachments/assets/96c996a1-c899-4857-8fde-837c645052a5)
+![Screenshot 2024-12-07 182227](https://github.com/user-attachments/assets/bb1da567-4d98-4934-adeb-bd69207c91c4)
+
+
 
 # RESULT:
 The program for implementing simple webserver is executed successfully.
